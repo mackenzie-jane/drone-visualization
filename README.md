@@ -15,12 +15,12 @@ view the spectrogram and MFCC plots.
 
 src/
 - components/
--     Reusable components like Navbar and Footer
+     Reusable components like Navbar and Footer
 - data/
--     JSON files like drones.json
+     JSON files like drones.json
 - pages/
--     Home, Info, Contact, etc.
+     Home, Info, Contact, etc.
 - App.js
--     Main React component
+     Main React component
 - index.js
--     Entry point
+     Entry point
