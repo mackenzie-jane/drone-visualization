@@ -21,4 +21,4 @@ src/
 - index.js (Entry point)
 
 public/
-- Images (drones/ mel, mfcc)
+- Images (drones, mel, mfcc)
