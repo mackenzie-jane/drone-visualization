@@ -1,0 +1,324 @@
+[
+  {
+    "id": "drone1",
+    "name": "Autel Evo 2",
+    "image": "/droneImage/Autel_Evo_II.png",
+    "info": "20",
+    "mel": "/melImage/Autel_Evo_II_20_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Autel_Evo_II_20_mfcc.png",
+    "audio": " "
+
+  },
+
+  {
+    "id": "drone2",
+    "name": "DJI Avata",
+    "image": "/droneImage/DJI_Avata.png",
+    "info": "21",
+    "mel": "/melImage/DJI_Avata_21_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Avata_21_mfcc.png",
+    "audio": " "
+  },
+
+  {
+    "id": "drone3",
+    "name": "DJI FPV",
+    "image": "/droneImage/DJI_FPV.png",
+    "info": "33",
+    "mel": "/melImage/DJI_FPV_33_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_FPV_33_mfcc.png",
+    "audio": " "
+  },
+
+  {
+    "id": "drone4",
+    "name": "DJI Matrice200",
+    "image": "/droneImage/DJI_Matrice200.png",
+    "info": "38",
+    "mel": "/melImage/DJI_Matrice200_38_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Matrice200_38_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone5",
+    "name": "DJI Matrice 200 v2",
+    "image": "/droneImage/DJI_Matrice200_v2.png",
+    "info": "29",
+    "mel": "/melImage/DJI_Matrice200_v2_29_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Matrice200_v2_29_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone6",
+    "name": "DJI Matrice 600p",
+    "image": "/droneImage/DJI_Matrice600p.png",
+    "info": "12",
+    "mel": "/melImage/DJI_Matrice600p_12_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Matrice600p_12_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone7",
+    "name": "DJI Mavic 2 Pro",
+    "image": "/droneImage/DJI_Mavic2pro.png",
+    "info": "81",
+    "mel": "/melImage/DJI_Mavic2pro_81_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Mavic2pro_81_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone8",
+    "name": "DJI Mavic 2s",
+    "image": "/droneImage/DJI_Mavic2s.png",
+    "info": "19",
+    "mel": "/melImage/DJI_Mavic2s_19_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Mavic2s_19_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone9",
+    "name": "DJI Mavic Air 2",
+    "image": "/droneImage/DJI_Mavic_Air2.png",
+    "info": "63",
+    "mel": "/melImage/DJI_Mavic_Air2_63_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Mavic_Air2_63_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone10",
+    "name": "DJI Mavic Mini 1",
+    "image": "/droneImage/DJI_Mavic_Mini1.png",
+    "info": "10",
+    "mel": "/melImage/DJI_Mavic_Mini1_10_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Mavic_Mini1_10_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone11",
+    "name": "DJI Mavic Mini 2",
+    "image": "/droneImage/DJI_Mavic_Mini2.png",
+    "info": "35",
+    "mel": "/melImage/DJI_Mavic_Mini2_35_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Mavic_Mini2_35_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone12",
+    "name": "DJI Mini 3",
+    "image": "/droneImage/DJI_Mini3.png",
+    "info": "6",
+    "mel": "/melImage/DJI_Mini3_6_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Mini3_6_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone13",
+    "name": "DJI Mini 3 Pro",
+    "image": "/droneImage/DJI_Mini3_pro.png",
+    "info": "30",
+    "mel": "/melImage/DJI_Mini3_pro_30_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Mini3_pro_30_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone14",
+    "name": "DJI Neo",
+    "image": "/droneImage/DJI_Neo.png",
+    "info": "2",
+    "mel": "/melImage/DJI_Neo_02_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Neo_02_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone15",
+    "name": "DJI Phantom 2",
+    "image": "/droneImage/DJI_Phantom2.png",
+    "info": "57",
+    "mel": "/melImage/DJI_Phantom2_57_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Phantom2_57_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone16",
+    "name": "DJI Phantom 4",
+    "image": "/droneImage/DJI_Phantom_4.png",
+    "info": "41",
+    "mel": "/melImage/DJI_Phantom4_41_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Phantom4_41_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone17",
+    "name": "DJI Tello",
+    "image": "/droneImage/DJI_Tello.png",
+    "info": "75",
+    "mel": "/melImage/DJI_Tello_75_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Tello_75_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone18",
+    "name": "DJI Tello TT",
+    "image": "/droneImage/DJI_Tello_TT.png",
+    "info": "93",
+    "mel": "/melImage/DJI_Tello_TT_93_mel_spectrogram.png",
+    "ifcc": "/mfccImage/DJI_Tello_TT_93_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone19",
+    "name": "David Tricopter",
+    "image": "/droneImage/David_Tricopter.png",
+    "info": "43",
+    "mel": "/melImage/David_Tricopter_43_mel_spectrogram.png",
+    "ifcc": "/mfccImage/David_Tricopter_43_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone20",
+    "name": "Hasakee Q11",
+    "image": "/droneImage/Hasakee_Q11.png",
+    "info": "12",
+    "mel": "/melImage/Hasakee_Q11_12_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Hasakee_Q11_12_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone21",
+    "name": "Holystone HS210",
+    "image": "/droneImage/Holystone_HS210.png",
+    "info": "98",
+    "mel": "/melImage/Holystone_HS210_98_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Holystone_HS210_98_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone22",
+    "name": "Hover X1",
+    "image": "/droneImage/Hover_X1.png",
+    "info": "12",
+    "mel": "/melImage/Hover_X1_12_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Hover_X1_12_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone23",
+    "name": "PhenoBee",
+    "image": "/droneImage/PhenoBee.png",
+    "info": "80",
+    "mel": "/melImage/PhenoBee_80_mel_spectrogram.png",
+    "ifcc": "/mfccImage/PhenoBee_80_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone24",
+    "name": "Swellpro Splash 3 Plus",
+    "image": "/droneImage/Swellpro_Splash3_plus.png",
+    "info": "100",
+    "mel": "/melImage/Swellpro_Splash3_plus_100_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Swellpro_Splash3_plus_100_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone25",
+    "name": "Syma X20",
+    "image": "/droneImage/Syma_X20.png",
+    "info": "44",
+    "mel": "/melImage/Syma_X20_44_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Syma_X20_44_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone26",
+    "name": "Syma X20P",
+    "image": "/droneImage/Syma_X20P.png",
+    "info": "2",
+    "mel": "/melImage/Syma_X20P_2_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Syma_X20P_2_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone27",
+    "name": "Syma X26",
+    "image": "/droneImage/Syma_X26.png",
+    "info": "11",
+    "mel": "/melImage/Syma_X26_11_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Syma_X26_11_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone28",
+    "name": "Syma X5SW",
+    "image": "/droneImage/Syma_X5SW.png",
+    "info": "68",
+    "mel": "/melImage/Syma_X5SW_68_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Syma_X5SW_68_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone29",
+    "name": "Syma X5UW",
+    "image": "/droneImage/Syma_X5UW.png",
+    "info": "87",
+    "mel": "/melImage/Syma_X5UW_87_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Syma_X5UW_87_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone30",
+    "name": "Syma X8SW",
+    "image": "/droneImage/Syma_X8SW.png",
+    "info": "87",
+    "mel": "/melImage/Syma_X8SW_87_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Syma_X8SW_87_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone31",
+    "name": "UDI U46",
+    "image": "/droneImage/UDI_U46.png",
+    "info": "63",
+    "mel": "/melImage/UDI_U46_63_mel_spectrogram.png",
+    "ifcc": "/mfccImage/UDI_U46_63_mfcc.png",
+    "audio": " "
+  },
+
+  {    
+    "id": "drone32",
+    "name": "Yuneec Typhoon H Plus",
+    "image": "/droneImage/Yuneec_Typhoon_H_Plus.png",
+    "info": "26",
+    "mel": "/melImage/Yuneec_Typhoon_H_Plus_26_mel_spectrogram.png",
+    "ifcc": "/mfccImage/Yuneec_Typhoon_H_Plus_26_mfcc.png",
+    "audio": " "
+  }
+
+
+]
