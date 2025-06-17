@@ -19,3 +19,6 @@ src/
 - pages/ (Home, Info, Contact, etc.)
 - App.js (Main React component)
 - index.js (Entry point)
+
+public/
+- Images (drones/ mel, mfcc)
