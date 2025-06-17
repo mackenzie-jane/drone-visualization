@@ -2,7 +2,7 @@
 Provides information (similar to what is in the journal) regarding information about MEL and IFCC
 
 ****** To Do: **********
-- make pretty
+- Add information here
 
 */
 import React from 'react';
@@ -13,7 +13,7 @@ export default function Info() {
       <h1 className="custom-title">Information</h1>
       
       <h3 className="custom-bodytext-left p-1">
-        Here is some common information regarding what the ...  
+        Need to add more information here.
       </h3>         
 
     </div>

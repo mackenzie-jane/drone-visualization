@@ -3,8 +3,6 @@
 ****** To Do **********
 Both professors, myself, (Emma and Daisy?)
 - email, contact picture
-
-- make pretty
  */
 import React from 'react';
 

@@ -1,12 +1,6 @@
 /* Drone Info Page
 This will have the specfic charts and information about each drone
 
-****** To Do: **********
-- update JSON file to include all the drones
-- center the information to look professional
-
-- make pretty
-
 */
 import React from 'react';
 import drones from '../data/drones.json';

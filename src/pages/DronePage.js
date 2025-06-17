@@ -1,12 +1,6 @@
 /* Drone Home Page
 This will have a list of all the drones added
 
-****** To Do: **********
-- update JSON file to include all the drones
-- center the drones and put themm in boxes (specific component?)
-
-- make pretty
-
 */
 
 import React from 'react';
