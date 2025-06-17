@@ -14,8 +14,13 @@ view the spectrogram and MFCC plots.
 ## Folder Structure
 
 src/
-- components/       # Reusable components like Navbar and Footer
-- data/             # JSON files like drones.json
-- pages/            # Home, Info, Contact, etc.
-- App.js            # Main React component
-- index.js          # Entry point
+- components/
+-     Reusable components like Navbar and Footer
+- data/
+-     JSON files like drones.json
+- pages/
+-     Home, Info, Contact, etc.
+- App.js
+-     Main React component
+- index.js
+-     Entry point
