@@ -30,8 +30,8 @@ function DronePage() {
       </p>
 
       <audio controls>
-        <source src={drone.audio} type="audio/mpeg" />
-        Your browser does not support the audio element.
+        <source src={`${process.env.PUBLIC_URL}${drone.audio}`} type="audio/wav" />
+          Your browser does not support the audio element.
       </audio>
 
       {/*
@@ -41,7 +41,7 @@ function DronePage() {
       <div className="image-row">
         <div className="image-box">
           <p className="custom-subtitle">
-            Mel-frequency Cepstral Coefficient (MFCC) Plot
+            MFCC Plot
           </p>      
           <img src={drone.mel} alt="Chart 1" className="responsive-image" />
         </div>

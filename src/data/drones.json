@@ -6,7 +6,7 @@
     "info": "20",
     "mel": "/melImage/Autel_Evo_II_20_mel_spectrogram.png",
     "ifcc": "/mfccImage/Autel_Evo_II_20_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Autel_Evo_II_20.wav"
 
   },
 
@@ -17,7 +17,7 @@
     "info": "21",
     "mel": "/melImage/DJI_Avata_21_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Avata_21_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Avata_21.wav"
   },
 
   {
@@ -27,7 +27,7 @@
     "info": "33",
     "mel": "/melImage/DJI_FPV_33_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_FPV_33_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_FPV_33.wav"
   },
 
   {
@@ -37,7 +37,7 @@
     "info": "38",
     "mel": "/melImage/DJI_Matrice200_38_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Matrice200_38_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Matrice_200_38.wav"
   },
 
   {    
@@ -47,7 +47,7 @@
     "info": "29",
     "mel": "/melImage/DJI_Matrice200_v2_29_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Matrice200_v2_29_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Matrice200_v2_29.wav"
   },
 
   {    
@@ -57,7 +57,7 @@
     "info": "12",
     "mel": "/melImage/DJI_Matrice600p_12_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Matrice600p_12_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Matrice600p_12.wav"
   },
 
   {    
@@ -67,7 +67,7 @@
     "info": "81",
     "mel": "/melImage/DJI_Mavic2pro_81_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Mavic2pro_81_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Mavic2pro_81.wav"
   },
 
   {    
@@ -77,7 +77,7 @@
     "info": "19",
     "mel": "/melImage/DJI_Mavic2s_19_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Mavic2s_19_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Mavic2s_19.wav"
   },
 
   {    
@@ -87,7 +87,7 @@
     "info": "63",
     "mel": "/melImage/DJI_Mavic_Air2_63_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Mavic_Air2_63_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Mavic_Air2_63.wav"
   },
 
   {    
@@ -97,7 +97,7 @@
     "info": "10",
     "mel": "/melImage/DJI_Mavic_Mini1_10_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Mavic_Mini1_10_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Mavic_Mini1_10.wav"
   },
 
   {    
@@ -107,7 +107,7 @@
     "info": "35",
     "mel": "/melImage/DJI_Mavic_Mini2_35_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Mavic_Mini2_35_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Mavic_Mini2_35.wav"
   },
 
   {    
@@ -117,7 +117,7 @@
     "info": "6",
     "mel": "/melImage/DJI_Mini3_6_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Mini3_6_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Mini3_6.wav"
   },
 
   {    
@@ -127,7 +127,7 @@
     "info": "30",
     "mel": "/melImage/DJI_Mini3_pro_30_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Mini3_pro_30_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Mini3_pro_30.wav"
   },
 
   {    
@@ -137,7 +137,7 @@
     "info": "2",
     "mel": "/melImage/DJI_Neo_02_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Neo_02_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Neo_02.wav"
   },
 
   {    
@@ -147,7 +147,7 @@
     "info": "57",
     "mel": "/melImage/DJI_Phantom2_57_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Phantom2_57_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Phantom2_57.wav"
   },
 
   {    
@@ -157,7 +157,7 @@
     "info": "41",
     "mel": "/melImage/DJI_Phantom4_41_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Phantom4_41_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Phantom4_41.wav"
   },
 
   {    
@@ -167,7 +167,7 @@
     "info": "75",
     "mel": "/melImage/DJI_Tello_75_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Tello_75_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Tello_75.wav"
   },
 
   {    
@@ -177,7 +177,7 @@
     "info": "93",
     "mel": "/melImage/DJI_Tello_TT_93_mel_spectrogram.png",
     "ifcc": "/mfccImage/DJI_Tello_TT_93_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/DJI_Tello_TT_93.wav"
   },
 
   {    
@@ -187,7 +187,7 @@
     "info": "43",
     "mel": "/melImage/David_Tricopter_43_mel_spectrogram.png",
     "ifcc": "/mfccImage/David_Tricopter_43_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/David_Tricopter_43.wav"
   },
 
   {    
@@ -197,7 +197,7 @@
     "info": "12",
     "mel": "/melImage/Hasakee_Q11_12_mel_spectrogram.png",
     "ifcc": "/mfccImage/Hasakee_Q11_12_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Hasakee_Q11_12.wav"
   },
 
   {    
@@ -207,7 +207,7 @@
     "info": "98",
     "mel": "/melImage/Holystone_HS210_98_mel_spectrogram.png",
     "ifcc": "/mfccImage/Holystone_HS210_98_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Holystone_HS210_98.wav"
   },
 
   {    
@@ -217,7 +217,7 @@
     "info": "12",
     "mel": "/melImage/Hover_X1_12_mel_spectrogram.png",
     "ifcc": "/mfccImage/Hover_X1_12_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Hover_X1_12.wav"
   },
 
   {    
@@ -227,7 +227,7 @@
     "info": "80",
     "mel": "/melImage/PhenoBee_80_mel_spectrogram.png",
     "ifcc": "/mfccImage/PhenoBee_80_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/PhenoBee_80.wav"
   },
 
   {    
@@ -237,7 +237,7 @@
     "info": "100",
     "mel": "/melImage/Swellpro_Splash3_plus_100_mel_spectrogram.png",
     "ifcc": "/mfccImage/Swellpro_Splash3_plus_100_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Swellpro_Splash3_plus_100.wav"
   },
 
   {    
@@ -247,7 +247,7 @@
     "info": "44",
     "mel": "/melImage/Syma_X20_44_mel_spectrogram.png",
     "ifcc": "/mfccImage/Syma_X20_44_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Syma_X20_44.wav"
   },
 
   {    
@@ -257,7 +257,7 @@
     "info": "2",
     "mel": "/melImage/Syma_X20P_2_mel_spectrogram.png",
     "ifcc": "/mfccImage/Syma_X20P_2_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Syma_X20P_2.wav"
   },
 
   {    
@@ -267,7 +267,7 @@
     "info": "11",
     "mel": "/melImage/Syma_X26_11_mel_spectrogram.png",
     "ifcc": "/mfccImage/Syma_X26_11_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Syma_X26_11.wav"
   },
 
   {    
@@ -277,7 +277,7 @@
     "info": "68",
     "mel": "/melImage/Syma_X5SW_68_mel_spectrogram.png",
     "ifcc": "/mfccImage/Syma_X5SW_68_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Syma_X5SW_68.wav"
   },
 
   {    
@@ -287,7 +287,7 @@
     "info": "87",
     "mel": "/melImage/Syma_X5UW_87_mel_spectrogram.png",
     "ifcc": "/mfccImage/Syma_X5UW_87_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Syma_X5UW_87.wav"
   },
 
   {    
@@ -297,7 +297,7 @@
     "info": "87",
     "mel": "/melImage/Syma_X8SW_87_mel_spectrogram.png",
     "ifcc": "/mfccImage/Syma_X8SW_87_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Syma_X8SW_87.wav"
   },
 
   {    
@@ -307,7 +307,7 @@
     "info": "63",
     "mel": "/melImage/UDI_U46_63_mel_spectrogram.png",
     "ifcc": "/mfccImage/UDI_U46_63_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/UDI_U46_63.wav"
   },
 
   {    
@@ -317,7 +317,7 @@
     "info": "26",
     "mel": "/melImage/Yuneec_Typhoon_H_Plus_26_mel_spectrogram.png",
     "ifcc": "/mfccImage/Yuneec_Typhoon_H_Plus_26_mfcc.png",
-    "audio": " "
+    "audio": "/droneAudio/Yuneec_Typhoon_H_Plus_26.wav"
   }
 
 

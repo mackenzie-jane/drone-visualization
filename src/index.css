@@ -128,3 +128,18 @@ footer {
 
 }
 
+.drone-grid-home {
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  gap: 10px;
+  padding: 20px;
+  margin: 0 auto;
+  max-width: 100%;
+  box-sizing: border-box;
+}
+
+.drone-card-home {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
