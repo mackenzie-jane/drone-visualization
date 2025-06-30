@@ -99,6 +99,7 @@ code {
 .image-row {
   display: flex;
   justify-content: center;
+  align-items: center; 
   gap: 40px;
   flex-wrap: wrap; /* makes layout responsive */
   margin-top: 30px;

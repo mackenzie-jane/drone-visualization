@@ -41,17 +41,26 @@ function DronePage() {
       <div className="image-row">
         <div className="image-box">
           <p className="custom-subtitle">
-            MFCC Plot
-          </p>      
-          <img src={drone.mel} alt="Chart 1" className="responsive-image" />
+            Mel-frequency Cepstral Coefficient (MFCC) Plot
+          </p>   
         </div>
-
 
         <div className="image-box">
           <p className="custom-subtitle">
             Spectrogram Plot
-          </p>      
-          <img src={drone.ifcc} alt="Chart 2" className="responsive-image" />
+          </p>         
+        </div>
+      </div>
+      
+      <div className="image-row">
+
+        <div className="image-box">
+          <img src={drone.ifcc} alt="Chart 1" className="responsive-image" />
+        </div>
+
+
+        <div className="image-box">
+          <img src={drone.mel} alt="Chart 2" className="responsive-image" />
         </div>
       </div>
     </div>

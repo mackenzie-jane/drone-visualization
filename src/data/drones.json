@@ -136,7 +136,7 @@
     "image": "/droneImage/DJI_Neo.png",
     "info": "2",
     "mel": "/melImage/DJI_Neo_02_mel_spectrogram.png",
-    "ifcc": "/mfccImage/DJI_Neo_02_mfcc.png",
+    "ifcc": "/mfccImage/DJI_Neo_2_mfcc.png",
     "audio": "/droneAudio/DJI_Neo_02.wav"
   },
 
