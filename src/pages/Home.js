@@ -19,7 +19,7 @@ function Home() {
 
             {/* When the card is clicked, it will link to the individual drone page*/}
             <Link to={`/drone/${drone.id}`}>
-              <img src={drone.image} alt={drone.name} width="100" />
+              <img src={`${process.env.PUBLIC_URL}${drone.image}`} alt={drone.name} width="300" />
             </Link>
           </div>
         ))}
@@ -29,7 +29,7 @@ function Home() {
         <a href="/drones" className="btn btn-outline-secondary me-2">Get Started</a>
         <a href="/info" className="btn btn-outline-secondary">Learn More</a>
       </div>
-      
+
     </div>
   );
 }

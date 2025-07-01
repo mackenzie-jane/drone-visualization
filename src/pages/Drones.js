@@ -33,7 +33,7 @@ function Drones() {
             {/* When the card is clicked, it will link to the individual drone page*/}
             <Link to={`/drone/${drone.id}`}>
               <h3 className="custom-bodytext">{drone.name}</h3>         
-              <img src={drone.image} alt={drone.name} width="200" />
+              <img src={`${process.env.PUBLIC_URL}${drone.image}`} alt={drone.name} width="300" />
             </Link>
           </div>
         ))}
