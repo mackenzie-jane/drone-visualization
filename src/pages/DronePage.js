@@ -23,7 +23,7 @@ function DronePage() {
     <div className="text-center p-5">
       <h1 className="custom-title">{drone.name}</h1>
 
-      <img src={drone.image} alt={drone.name} width="300" />
+      <img src={`${process.env.PUBLIC_URL}${drone.image}`} alt={drone.name} width="300" />
 
       <p className="custom-subtitle">
         Audio Recording
@@ -55,12 +55,12 @@ function DronePage() {
       <div className="image-row">
 
         <div className="image-box">
-          <img src={drone.ifcc} alt="Chart 1" className="responsive-image" />
+          <img src={`${process.env.PUBLIC_URL}${drone.ifcc}`} alt="Chart 1" className="responsive-image" />
         </div>
 
 
         <div className="image-box">
-          <img src={drone.mel} alt="Chart 2" className="responsive-image" />
+          <img src={`${process.env.PUBLIC_URL}${drone.mel}`} alt="Chart 2" className="responsive-image" />
         </div>
       </div>
     </div>
