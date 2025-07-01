@@ -5,7 +5,7 @@ function Footer() {
   return (
     <footer className="footer">
       <div>
-        <strong>CofC Drone Lab</strong>
+        <strong>The Drone Lab at The College of Charleston</strong>
       </div>
     </footer>
   );
