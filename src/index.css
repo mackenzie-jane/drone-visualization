@@ -86,7 +86,7 @@ code {
   margin: 15px;
   border-radius: 8px;
   text-align: center;
-  width: 250px;
+  width: 280px;
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
   background-color: #f9f9f9;
 }
@@ -143,4 +143,17 @@ footer {
   width: 100%;
   height: auto;
   object-fit: contain;
+}
+.drone-image {
+  width: 100%;
+  height: auto;
+  max-height: 200px;
+  object-fit: contain;
+  display: block;
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .drone-grid-home {
+    grid-template-columns: repeat(2, 1fr);
+  }
 }

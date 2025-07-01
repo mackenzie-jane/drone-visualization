@@ -19,7 +19,7 @@ function Home() {
 
             {/* When the card is clicked, it will link to the individual drone page*/}
             <Link to={`/drone/${drone.id}`}>
-              <img src={`${process.env.PUBLIC_URL}${drone.image}`} alt={drone.name} width="300" />
+              <img src={`${process.env.PUBLIC_URL}${drone.image}`} alt={drone.name} className="drone-image" />
             </Link>
           </div>
         ))}
