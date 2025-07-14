@@ -253,7 +253,7 @@
   {    
     "id": "drone26",
     "name": "Syma X20P",
-    "image": "/droneImage/Syma_X20p.png",
+    "image": "/droneImage/Syma_X20p_2.png",
     "info": "2",
     "mel": "/melImage/Syma_X20P_2_mel_spectrogram.png",
     "ifcc": "/mfccImage/Syma_X20P_2_mfcc.png",
