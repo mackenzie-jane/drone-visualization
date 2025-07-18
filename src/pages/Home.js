@@ -25,10 +25,6 @@ function Home() {
         ))}
       </div>
 
-      <div className="mt-4">
-        <a href="/drones" className="btn btn-outline-secondary me-2">Get Started</a>
-        <a href="/info" className="btn btn-outline-secondary">Learn More</a>
-      </div>
 
     </div>
   );
