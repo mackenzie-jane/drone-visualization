@@ -15,8 +15,8 @@ import { Link } from 'react-router-dom';
 function Drones() {
   return (
     <div className="mt-4">
-      <h1 className="custom-title">All Drones</h1> 
-      
+      <h1 className="custom-title">All Drones</h1>
+
       <p className="custom-subtitle">
         Click on the image of the drone to view its audio recording, spectrogram plot, amd MFCC plot.
       </p>
@@ -32,7 +32,7 @@ function Drones() {
 
             {/* When the card is clicked, it will link to the individual drone page*/}
             <Link to={`/drone/${drone.id}`}>
-              <h3 className="custom-bodytext">{drone.name}</h3>         
+              <h3 className="custom-bodytext">{drone.name}</h3>
               <img src={`${process.env.PUBLIC_URL}${drone.image}`} alt={drone.name} className="drone-image" />
             </Link>
           </div>

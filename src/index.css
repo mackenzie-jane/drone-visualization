@@ -13,24 +13,32 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
+
 .content {
   flex: 1;
 }
 
 .custom-bodytext {
-  font-size: 18px; /* Bigger size for a heading */
+  font-size: 18px;
+  /* Bigger size for a heading */
   font-weight: 400;
   letter-spacing: 2px;
-  line-height: 1.1; /* More natural */
-  color: #666A86; /* Your light blue */
+  line-height: 1.1;
+  /* More natural */
+  color: #666A86;
+  /* Your light blue */
   text-align: center;
 }
+
 .custom-bodytext-left {
-  font-size: 20px; /* Bigger size for a heading */
+  font-size: 20px;
+  /* Bigger size for a heading */
   font-weight: 400;
   letter-spacing: 2px;
-  line-height: 1.2; /* More natural */
-  color: #666A86; /* Your light blue */
+  line-height: 1.2;
+  /* More natural */
+  color: #666A86;
+  /* Your light blue */
   text-align: left;
 }
 
@@ -38,21 +46,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
 .custom-title {
-  font-size: 48px; /* Bigger size for a heading */
+  font-size: 48px;
+  /* Bigger size for a heading */
   font-weight: 350;
   letter-spacing: 4px;
-  line-height: 1.2; /* More natural */
-  color: #95B8D1; /* Your light blue */
+  line-height: 1.2;
+  /* More natural */
+  color: #95B8D1;
+  /* Your light blue */
   text-align: center;
   /* You don’t need align-items or justify-content here; those are flexbox properties */
 }
+
 .custom-subtitle {
-  font-size: 20px; /* Bigger size for a heading */
+  font-size: 20px;
+  /* Bigger size for a heading */
   font-weight: 500;
   letter-spacing: 3.5px;
-  line-height: 1.3; /* More natural */
-  color: #666A86; /* Your light blue */
+  line-height: 1.3;
+  /* More natural */
+  color: #666A86;
+  /* Your light blue */
   text-align: center;
 }
 
@@ -62,13 +78,16 @@ code {
   justify-content: center;
   padding: 15px;
 }
+
 .nav-container {
   display: flex;
-  gap: 40px; /* adjust spacing between links */
+  gap: 40px;
+  /* adjust spacing between links */
   align-items: center;
   justify-content: center;
   width: 100%;
 }
+
 .custom-nav-link {
   color: #FFFFFF;
   text-decoration: none;
@@ -76,8 +95,10 @@ code {
   font-weight: bold;
   transition: color 0.3s ease;
 }
+
 .custom-nav-link:hover {
-  color: #666A86; /* or another hover color */
+  color: #666A86;
+  /* or another hover color */
 }
 
 .drone-card {
@@ -90,27 +111,33 @@ code {
   box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
   background-color: #f9f9f9;
 }
+
 .drone-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 20px;
 }
+
 .image-row {
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: center;
   gap: 40px;
-  flex-wrap: wrap; /* makes layout responsive */
+  flex-wrap: wrap;
+  /* makes layout responsive */
   margin-top: 30px;
 }
+
 .image-box {
-  flex: 1 1 30%; /* try to take ~30% of row width */
+  flex: 1 1 30%;
+  /* try to take ~30% of row width */
   max-width: 33%;
   display: flex;
   flex-direction: column;
   align-items: center;
 }
+
 .responsive-image {
   width: 100%;
   height: auto;
@@ -144,6 +171,7 @@ footer {
   height: auto;
   object-fit: contain;
 }
+
 .drone-image {
   width: 100%;
   height: auto;
@@ -152,6 +180,14 @@ footer {
   display: block;
   margin: 0 auto;
 }
+
+.contact-photo img {
+  width: 200px;
+  height: 200px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 @media (max-width: 768px) {
   .drone-grid-home {
     grid-template-columns: repeat(2, 1fr);
